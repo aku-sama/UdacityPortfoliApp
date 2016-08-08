@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PortfolioApp</string>
+
+    <!-- BUTTONS -->
+    <string name="button_movies">Popular Movies</string>
+    <string name="button_stock">Stock Hawk</string>
+    <string name="button_build_bigger">Build it Bigger</string>
+    <string name="button_material">Make Your App Material</string>
+    <string name="button_ubiquitous">Go Ubiquitous</string>
+    <string name="button_capstone">Capstone</string>
+
+    <!-- ALERTS -->
+    <string name="message_app_not_seted_yet">This button will launch my %s app</string>
+
+    <!-- ERRORS -->
+    <string name="error_app_not_installed">Ooops, application not installed :(</string>
+</resources>
